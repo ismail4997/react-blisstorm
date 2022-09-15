@@ -1,0 +1,19 @@
+.weather {
+    color: rgb(240, 240, 226);
+    text-align: center;
+    font-weight: normal;
+    margin-right: 140px;
+    margin-top: 50px;
+}
+
+.conditions {
+    margin-left: 450px;
+    margin-top: -160px;
+    color: rgb(240, 240, 226);
+    text-align: center;
+    font-weight: normal;
+}
+
+.image {
+    height: 100px;
+}
